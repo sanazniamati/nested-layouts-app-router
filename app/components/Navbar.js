@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 
-function NavLink() {
+function Navbar({}) {
   return (
     <nav className=" bg-gray-300 p-4">
       <ul className="flex gap-4">
@@ -19,4 +19,4 @@ function NavLink() {
   );
 }
 
-export default NavLink;
+export default Navbar;

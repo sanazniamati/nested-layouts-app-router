@@ -1,7 +1,7 @@
 import React from "react";
-import AboutLayout from "../Layout";
+import CompanyLayout from "../Layout";
 function About() {
-  return <AboutLayout>About Page</AboutLayout>;
+  return <CompanyLayout>About Page</CompanyLayout>;
 }
 
 export default About;
