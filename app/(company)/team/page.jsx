@@ -1,4 +1,4 @@
-import AboutLayout from "@/app/about/Layout";
+import AboutLayout from "@/app/(company)/Layout";
 
 function TeamPage() {
   return <AboutLayout>Team Page</AboutLayout>;

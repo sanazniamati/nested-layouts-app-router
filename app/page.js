@@ -1,3 +1,5 @@
+import NavLink from "@/app/components/NavLink";
+
 export default function Home() {
   return (
     <main>
